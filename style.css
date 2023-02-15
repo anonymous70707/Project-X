@@ -80,6 +80,7 @@
     align-items: center;
     border-radius: 5px;
     padding-bottom: .3rem;
+    border: 1px solid red;
     text-transform: capitalize;
     margin-bottom: 1rem;
     font-size: 13px;
